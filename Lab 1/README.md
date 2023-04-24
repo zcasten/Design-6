@@ -2,7 +2,7 @@
 ## Lab 1
  * Half-Adder
 
-![Fig. 1](Design-6/Images/Lab1_ZC.png)
+![Fig. 1](Images/Lab1_ZC.png)
 
   * D Flip-Flop
 
