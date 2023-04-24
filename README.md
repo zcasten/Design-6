@@ -17,7 +17,7 @@
  * SR Flip-Flop
 ![Fig. 6](Images/srff.png)
  * 8-Bit Square Root
-  ** Not all square roots are listed here, just a few examples to show it works
+  * Not all square roots are listed here, just a few examples to show it works
 ![Fig. 7](Images/8bit1.png)
 ![Fig. 7.1](Images/8bit2.png)
 ![Fig. 7.2](Images/8bit3.png)
