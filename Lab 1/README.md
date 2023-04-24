@@ -1,5 +1,4 @@
-# Labs:
-## Lab 1
+# Lab 1
  * Half-Adder
 
 ![Fig. 1](Images/Lab1_ZC.png)
