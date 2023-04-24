@@ -2,7 +2,7 @@
 ## repo for D6
 ### 
 
-*
-  *Lab 1
+Labs:
+  Lab 1
 
-![Fig. 1](image link or file name.png)
+![Fig. 1](Lab1_ZC.png)
