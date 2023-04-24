@@ -3,6 +3,6 @@
 ### 
 
 *
-  *
+  *Lab 1
 
 ![Fig. 1](image link or file name.png)
