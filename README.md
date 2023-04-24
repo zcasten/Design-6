@@ -15,6 +15,7 @@
  * 1-4 Demultiplexer
 ![Fig. 5](Images/demux.png)
  * SR Flip-Flop
+
 ![Fig. 6](Images/srff.png)
  * 8-Bit Square Root (Not all square roots are listed here, just a few examples to show it works)
 ![Fig. 7](Images/8bit1.png)
