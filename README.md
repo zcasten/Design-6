@@ -2,4 +2,4 @@
 ## Repo for D6
 ### 
 
-![Fig. 1](Images/.png)
+![Fig. 1](Images/mefr.png)
