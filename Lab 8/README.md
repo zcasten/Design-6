@@ -11,4 +11,4 @@
 
   * Output from python plt_cv2.py
 
-![Fig. 1](Images/fig8.png)
+![Fig. 7](Images/fig8.png)
