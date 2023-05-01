@@ -1,5 +1,5 @@
 ## Lab 9
 
-  * Outputs
+  * Outputs from Intrusion Detection
 
-![Fig. 1](Images/.png)
+![Fig. 1](Images/intrusiondetection.png)
