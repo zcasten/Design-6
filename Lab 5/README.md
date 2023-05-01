@@ -1,5 +1,5 @@
 ## Lab 5
 
-  * Output
-  * 
-![Fig. 1](Images/.png)
+  * Split screen output of the subscriber and publisher
+  
+![Fig. 1](Images/pubg.png)
