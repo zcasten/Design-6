@@ -2,4 +2,4 @@
 
   * Outputs
 
-![Fig. 1](Images/.png)
+![Fig. 1](Images/hourslongdata.png)
